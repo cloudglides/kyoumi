@@ -1,0 +1,13 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ESP32") (type "KiCad") (uri "${KIPRJMOD}/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.kicad_sym") (options "") (descr ""))
+	(lib (name "DISPLAY") (type "KiCad") (uri "${KIPRJMOD}/kicad-oled-ssd1306-128x64/library/SSD1306-128x64_OLED.kicad_sym") (options "") (descr ""))
+	(lib (name "XIAO") (type "KiCad") (uri "${KIPRJMOD}/OPL_Kicad_Library/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "NEXPERIA") (type "KiCad") (uri "${KIPRJMOD}/74HC165BQ_115") (options "") (descr ""))
+	(lib (name "PCF8574") (type "KiCad") (uri "${KIPRJMOD}/PCF8574N") (options "") (descr ""))
+	(lib (name "DFR0299") (type "KiCad") (uri "${KIPRJMOD}/DFR0299") (options "") (descr ""))
+	(lib (name "STM32") (type "KiCad") (uri "${KIPRJMOD}/ul_STM32G071CBU3/KiCADv6/") (options "") (descr ""))
+	(lib (name "OV7670") (type "KiCad") (uri "${KIPRJMOD}/OV7670") (options "") (descr ""))
+	(lib (name "ESP32-CAM") (type "KiCad") (uri "${KIPRJMOD}/ESP32-CAM") (options "") (descr ""))
+	(lib (name "PICO") (type "KiCad") (uri "${KIPRJMOD}/RASPBERRY_PI_PICO") (options "") (descr ""))
+)

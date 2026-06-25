@@ -1,0 +1,78 @@
+(footprint "m1_mh"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "MH_M1"
+		(at 0 2.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "54a88b82-12ad-426c-a099-a1c39886ec5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MH"
+		(at 0 3.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "37de62a2-b0ba-4e42-bfd3-a14563c6f9fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55e21114-6e56-46f0-a2a4-b58b108c7bd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6fd8c8b4-5957-4e3f-8242-60416599f5f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 5.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b307c173-d105-4eb3-97ab-ce60f268d244")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(uuid "beed3d21-2bf4-4f57-89ee-1ade37cb1f04")
+	)
+	(embedded_fonts no)
+)
